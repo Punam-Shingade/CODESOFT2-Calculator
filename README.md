@@ -6,6 +6,7 @@ Features:
 2.Interactive Design: Clean and responsive layout for a seamless user experience.
 3.Keyboard Support: Allows input via the keyboard for convenience.
 4.Error Handling: Includes basic error handling for invalid inputs or operations.
+
 Technologies Used:
 1.HTML: Structure of the calculator interface.
 2.CSS: Styling for the layout, buttons, and display.
